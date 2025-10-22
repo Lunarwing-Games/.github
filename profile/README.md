@@ -35,9 +35,14 @@ We also believe in project transparency. That is why the **source code** for all
 We build our worlds *differently* in these parts.  
 Our core technologies include:
 - **LÖVE2D** (Lua, C++)  
-- **Pygame-CE** (Python 3.13+)  
 - **Raylib** (C++, C#)  
 - **OpenGL / GLFW** (C++)
+
+## Giving Back
+
+Alongside making use of open-source tools and solutions, we plan on giving back to the open-source community where possible by contributing to the tools and libraries we use most in the studio!
+
+Most of our contributions are going to be related to C/C++ projects such as [Raylib](https://github.com/raysan5/raylib) or [LÖVE2D](https://github.com/love2d/love). 
 
 ## Keep in Touch 👋
 - [Website](https://lunarwing-games.github.io/)  
