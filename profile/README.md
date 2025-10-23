@@ -14,7 +14,7 @@ At Lunarwing, we believe in *creative freedom*, and our games embody that spirit
 - **Eclipse** — A grand, lore-rich JRPG that embraces beauty, heart, and high fantasy. *(June 2027)*  
 
 ## Creative Philosophy 🌌
-We believe games can be both **beautiful** and **bold** — a space where elegance meets imagination, and artistry meets play.  
+We believe games can be both **beautiful** and **bold** — a space where elegance meets imagination, and artistry meets gaming. \
 Sensuality, absurdity, and sincerity all have their place within our walls and within our hearts.
 
 We also believe in project transparency. That is why the **source code** for all of our games is here on GitHub under a "source available" policy. Unless otherwise stated explicitly in the repository, all repositories created by this organization (excluding forked repositories) are licensed under the [CC-BY-SA-NC 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) Creative Commons license.
@@ -45,8 +45,11 @@ Alongside making use of open-source tools and solutions, we plan on giving back 
 Most of our contributions are going to be related to C/C++ projects such as [Raylib](https://github.com/raysan5/raylib) or [LÖVE2D](https://github.com/love2d/love). 
 
 ## Keep in Touch 👋
-- [Website](https://lunarwing-games.github.io/)  
+- [Website]()  
 - [Steam Store]()  
-- [Twitter/X]()  
+- [Twitter/X]()
+- [Bluesky]()
+- [YouTube]()
+- [Twitch.tv]()
 
 > *“Elegance and Fantasy in every pixel.”*
