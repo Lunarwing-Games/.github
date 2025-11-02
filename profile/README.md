@@ -10,8 +10,8 @@ At Lunarwing, we believe in *creative freedom*, and our games embody that spirit
 > All release dates in parentheses `()` are approximate and subject to change.  
 > Titles may also evolve during development.
 
-- **Within Ashes** — A roguelike with elements of resource management and real-time survival combat. *(March 2026)*  
-- **Eclipse** — A grand, lore-rich JRPG that embraces beauty, heart, and high fantasy. *(June 2027)*  
+- **Within Ashes**: A post-apoc roguelike with elements of resouce management. *(June 2026)*
+- **Nova**: An offbeat, Halo 2 inspired FPS built from the ground up. *(June 2027)*
 
 ## Creative Philosophy 🌌
 We believe games can be both **beautiful** and **bold** — a space where elegance meets imagination, and artistry meets gaming. \
